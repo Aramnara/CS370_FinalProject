@@ -1,1 +1,2 @@
-"# CS370_FinalProject" 
+Maor Azoulay
+maorazoulay@gmail.com
